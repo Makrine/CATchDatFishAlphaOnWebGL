@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "871322043531",
+    "firebase_url": "https://catch-dat-fish-48716240-default-rtdb.firebaseio.com",
+    "project_id": "catch-dat-fish-48716240",
+    "storage_bucket": "catch-dat-fish-48716240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871322043531:android:c6265bc668796fad82408e",
+        "android_client_info": {
+          "package_name": "com.MakdumGames.CATchDatFish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871322043531-4iani8djtt0gbfmve3dtolrg88hs4g41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujOvFS2OOB8t7mLIw-1D85QM62_iGRWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871322043531-4iani8djtt0gbfmve3dtolrg88hs4g41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
